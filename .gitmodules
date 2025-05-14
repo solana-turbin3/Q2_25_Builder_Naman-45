@@ -1,3 +1,6 @@
 [submodule "auctide"]
 	path = auctide
 	url = https://github.com/Naman-45/Auctide.git
+[submodule "prereq"]
+	path = prereq
+	url = https://github.com/Naman-45/TURBINE.git
